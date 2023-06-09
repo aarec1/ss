@@ -1,1 +1,1 @@
-msg * testtt
+echo test
